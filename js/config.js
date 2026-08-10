@@ -1,0 +1,4 @@
+window.COAST_CONFIG = {
+  SUPABASE_URL: 'https://mklowcjtoabvmlbdmneo.supabase.co',
+  SUPABASE_ANON_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1rbG93Y2p0b2Fidm1sYmRtbmVvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODI2MTQ0NTYsImV4cCI6MjA5ODE5MDQ1Nn0.aLVL8KhmRfmjl35sQbumAm5UKqHPpmNNavyLACFC_bw'
+};
